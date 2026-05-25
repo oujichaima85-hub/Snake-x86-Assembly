@@ -123,5 +123,5 @@ Snake-x86-Assembly/
 ---
 
 <div align="center">
-<i>Built with ❤️ and raw Assembly — because sometimes, less is more.</i>
+<i>Academic project — ENSI, Computer Engineering · 2025</i>
 </div>
